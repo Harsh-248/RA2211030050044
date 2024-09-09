@@ -1,33 +1,27 @@
-COMPUTER NETWORKS – 21CSC302J
-
+# COMPUTER NETWORKS – 21CSC302J
 Computer Network Lab Exam: LAN and WAN Configuration
-
 Objective Create and configure a suitable topology for both LAN and WAN using 10-15 computers, routers, and switches. Simulate the transmission of a message from one network to a computer in another network.
+# Topology Design
 
-Topology Design
-
-LAN 1:
-
+#LAN 1:
 ●	IP Range: 192.168.1.0/24
 ●	Devices: 5 PCs
 ●	Switch: Switch 1
 ●	Router: Router 1
 
-LAN 2:
-
+# LAN 2:
 ●	IP Range: 192.168.2.0/24
 ●	Devices: 5 PCs
 ●	Switch: Switch 2
 ●	Router: Router 2
 
-WAN:
-
+# WAN:
 ●	IP Range: 10.0.0.0/30 (Point-to-Point Connection)
 ●	Connection: Between Router 1 and Router 2
 Step-by-Step Procedure
 Step 1: Topology Setup
 
-Add Devices:
+# Add Devices:
 
 ●	LAN 1:
 ○	5 PCs, 1 switch (Switch 1), 1 router (Router 1).
